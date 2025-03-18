@@ -94,9 +94,6 @@
   display: flex;
   justify-content: center;
 }
-.no-letter-spacing {
-  letter-spacing: 0;
-}
 .aligned-text_right {
   display: flex;
   justify-content: end;
@@ -150,7 +147,6 @@
   font-weight: bold;
   font-size: 40px;
   padding-left: 40px;
-  font-family: "Raleway", sans-serif;
 }
 .lots__look-more-link {
   font-size: 20px;
