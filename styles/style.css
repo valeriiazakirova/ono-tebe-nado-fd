@@ -54,7 +54,7 @@
   justify-self: end;
   margin-right: 23px;
 }
-.header__link {
+.link {
   text-decoration: underline;
   text-underline-position: under;
 }
@@ -270,10 +270,7 @@
   list-style: none;
   justify-self: center;
 }
-.footer__link {
-  text-decoration: underline;
-  text-underline-position: under;
-}
+
 .footer__menu-link {
   text-decoration: none;
 }
