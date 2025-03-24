@@ -1,1 +1,1 @@
-https://github.com/valeriiazakirova/ono-tebe-nado-ff#
+https://github.com/valeriiazakirova/ono-tebe-nado-fd.git
